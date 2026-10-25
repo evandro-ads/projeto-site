@@ -8,6 +8,18 @@ body{
 
 }
 
+h1 {
+    color: blue;
+}
+
+h2 {
+    color: blue;
+}
+
+img.lado {
+    float: right;
+}
+
 main {
     background-color: white;
     width: 500px;
